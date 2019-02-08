@@ -4,7 +4,7 @@ const isEmpty = require("./is-empty");
 module.exports = function validateLoginInput(data) {
   let errors = {};
 
-  // Checking if values are empty, then make them an empty string
+  // Turn any undefined or null value into an empty string for Validator.js
   data.email = !isEmpty(data.email) ? data.email : "";
   data.password = !isEmpty(data.password) ? data.password : "";
 
