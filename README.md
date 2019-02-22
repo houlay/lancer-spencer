@@ -7,8 +7,8 @@ This is a full stack project with a goal of creating a MERN stack web App that h
 ## Tech stack
 
 * Front-end
-  * Bootstrap for styles
-  * React.js and Redux.js for imformation display and user interaction
+  * Bootstrap to help with design
+  * React.js and Redux.js for information display and user interaction
 * Back-end
   * MongoDB and mongoose for data manipulation
   * Node.js and Express.js for server and API
