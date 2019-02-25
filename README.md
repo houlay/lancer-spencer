@@ -1,4 +1,4 @@
-# lancer-spencer
+# lancer-spencer (WIP)
 
 ## Overview
 
